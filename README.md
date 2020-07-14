@@ -1,2 +1,2 @@
-# cpp-markdown-interpreter
-A simple markdown interpreter as a C++ programming practice.
+# cpp-markdown-parser
+A simple markdown parser as a C++ programming practice.
